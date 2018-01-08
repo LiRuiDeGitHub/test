@@ -1,4 +1,3 @@
-aaaa
-aaaa
-aaaa
-aaaa
+<?php
+  echo phpinfo();
+?>
